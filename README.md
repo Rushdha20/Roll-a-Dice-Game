@@ -1,6 +1,6 @@
 # Roll-a-Dice-Game
 A simple rolling a dice game created using JavaScript
-This was done for an assignemnt for the module SCS 2208 - Rapid Application Development (RAD) in the Second Year of my BSc. in Computer Science degree
+This was done for an assignemnt for the module SCS 2208 - Rapid Application Development (RAD) in the Second Year of my BSc. in Computer Science undergraduate program
 
 ![image](https://github.com/Rushdha20/Roll-a-Dice-Game/assets/89083702/3edd445c-1eab-4b00-97cd-09b46cd732d8)
 
